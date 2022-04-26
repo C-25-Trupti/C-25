@@ -1,7 +1,7 @@
 Program 7 - Increment and Decrement Operators
 
 #include <stdio.h>
-
+using namespace std;
 int main()
 {
     int a=1;
