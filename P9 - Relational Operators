@@ -1,7 +1,6 @@
 Program 9 - Relational Operators
 
 #include <stdio.h>
-using namespace std;
 int main()
 {
     int a,b;
